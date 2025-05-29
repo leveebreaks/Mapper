@@ -1,0 +1,6 @@
+.idea
+AMapper/obj/**
+AMapper/bin/**
+Main/obj/**
+Main/bin/**
+Main.sln.DotSettings.user

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1be5f6b6588d8ccb76c60e552f238c3204453af6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
